@@ -2,7 +2,7 @@
 
 ## Título
 
-API de gestão de despesas com Python e SQLite
+Expense Control API
 
 ## Descrição
 

@@ -1,4 +1,4 @@
-# API de Gestão de Despesas com Python
+# Expense Control API
 
 API REST em Python para cadastro, consulta, exclusão e consolidação de despesas operacionais usando SQLite.
 

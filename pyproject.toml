@@ -1,5 +1,5 @@
 [project]
-name = "api-gestao-despesas-python"
+name = "expense-control-api"
 version = "0.1.0"
 description = "API REST em Python para gestão de despesas com SQLite."
 requires-python = ">=3.11"

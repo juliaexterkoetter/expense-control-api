@@ -1,4 +1,4 @@
-# Escopo do Projeto: API de Gestão de Despesas
+# Escopo do Projeto: Expense Control API
 
 ## Problema
 
